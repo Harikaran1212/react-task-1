@@ -22,6 +22,12 @@ body{
   pointer-events: none;
 }
 
+@media only screen and (max-width: 600px)  {
+  .game{
+    margin-left: 18px;
+    width: 420px;
+ }
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
