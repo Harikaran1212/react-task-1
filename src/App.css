@@ -25,7 +25,7 @@ body{
 @media only screen and (max-width: 600px)  {
   .game{
     margin-left: 18px;
-    width: 420px;
+    width: 380px;
  }
 }
 @media (prefers-reduced-motion: no-preference) {
