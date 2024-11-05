@@ -25,7 +25,7 @@ body{
 @media only screen and (max-width: 600px)  {
   .game{
     margin-left: 15px;
-    width: 310px;
+    width: 320px;
     margin-right:10px;
  }
 }
