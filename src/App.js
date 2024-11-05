@@ -21,7 +21,7 @@ function App() {
   return (
     <div className='game'>
     <div style={{ padding: '20px' }}>
-      <h1>React Learning Tasks</h1>
+      <h1>React Learning Tasks 1</h1>
 
       <h2>Task 1: Simple JSX Display</h2>
       <p>Hello, welcome to React tasks!</p>
