@@ -3,7 +3,7 @@ body{
 }
 .game{
   background-image: linear-gradient(120deg, #fbc2eb, #8cb5e8d2);
-  margin-left: 650px;
+  margin-left: 600px;
   border: 2px solid black;
   width: 500px;
   margin-top: 20px;
